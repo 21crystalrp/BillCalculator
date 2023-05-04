@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bill Calculator</string>
+    <string name="amount_title">Amount</string>
+    <string name="pax_title">Num of Pax</string>
+    <string name="gst_enabled">GST</string>
+    <string name="gst_disabled">NO GST</string>
+    <string name="svs_enabled">SVS</string>
+    <string name="svs_disabled">NO SVS</string>
+    <string name="discount_title">Discount(%)</string>
+    <string name="radio_button1">Cash</string>
+    <string name="radio_button2">Paynow</string>
+    <string name="toggle_reset">Reset</string>
+    <string name="split">Split</string>
+    <string name="totalBill">Total Bill : </string>
+    <string name="eachAmt">Each pay : </string>
+
+</resources>
